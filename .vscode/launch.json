@@ -1,0 +1,74 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "backtraking_1b01b1c8"
+        },
+        {
+            "type": "java",
+            "name": "PrimosPerfectos",
+            "request": "launch",
+            "mainClass": "PrimosPerfectos",
+            "projectName": "backtraking_1b01b1c8"
+        },
+        {
+            "type": "java",
+            "name": "Parqueadero",
+            "request": "launch",
+            "mainClass": "Parqueadero",
+            "projectName": "backtraking_1b01b1c8"
+        },
+        {
+            "type": "java",
+            "name": "MatrizTranspuesta",
+            "request": "launch",
+            "mainClass": "MatrizTranspuesta",
+            "projectName": "backtraking_1b01b1c8"
+        },
+        {
+            "type": "java",
+            "name": "Vocales",
+            "request": "launch",
+            "mainClass": "Vocales",
+            "projectName": "backtraking_1b01b1c8"
+        },
+        {
+            "type": "java",
+            "name": "Carcel",
+            "request": "launch",
+            "mainClass": "Carcel",
+            "projectName": "backtraking_1b01b1c8"
+        },
+        {
+            "type": "java",
+            "name": "NReinas",
+            "request": "launch",
+            "mainClass": "NReinas",
+            "projectName": "backtraking_1b01b1c8"
+        },
+        {
+            "type": "java",
+            "name": "Laberinto",
+            "request": "launch",
+            "mainClass": "Laberinto",
+            "projectName": "backtraking_1b01b1c8"
+        },
+        {
+            "type": "java",
+            "name": "Matriz",
+            "request": "launch",
+            "mainClass": "Matriz",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Laberinto",
+            "request": "launch",
+            "mainClass": "backtracking.ejemplos.Laberinto",
+            "projectName": ""
+        }
+    ]
+}
